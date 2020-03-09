@@ -10,3 +10,4 @@
 #### Decision Tree
 #### Artificial Neural Network ANN
 #### Gradient Boosting GBM
+#### PCA
